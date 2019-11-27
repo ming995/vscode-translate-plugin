@@ -1,7 +1,7 @@
 {
 	"name": "code",
 	"displayName": "code",
-	"description": "",
+	"description": "code",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.40.0"
